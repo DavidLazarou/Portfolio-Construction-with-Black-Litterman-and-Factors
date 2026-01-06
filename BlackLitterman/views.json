@@ -1,0 +1,17 @@
+{
+  "tau": 0.05,
+  "views": [
+    {"type": "absolute", "asset": "CPER", "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "GLD",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "IWM",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "IYG",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "QQQ",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "SMH",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "SPY",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "TLT",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "XBI",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "XLI",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "XLK",  "value": 0.00, "var": 0.02},
+    {"type": "absolute", "asset": "XRT",  "value": 0.00, "var": 0.02}
+  ]
+}

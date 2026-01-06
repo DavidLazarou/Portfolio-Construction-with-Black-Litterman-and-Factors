@@ -1,0 +1,29 @@
+Portfolio Diagnostics Report
+============================
+
+Top variance contributors:
+CFLT    0.236745
+PLTR    0.221189
+DECK    0.118451
+Name: 0, dtype: float64
+
+Top factor risk contributors:
+Mkt-RF    0.000103
+Idio      0.000078
+RMW       0.000011
+Name: 0, dtype: float64
+
+VaR/ES (Portfolio Returns):
+95% VaR=-2.16%, ES=-2.91% | 99% VaR=-3.15%, ES=-4.28%
+
+Expiry Ladder (counts per date):
+expiry
+05.09.2025    2
+17.10.2025    6
+19.09.2025    6
+21.11.2025    3
+26.09.2025    1
+Name: count, dtype: int64
+
+RISK LIMIT BREACHES:
+- Factor Mkt-RF dominates risk at 51.9%

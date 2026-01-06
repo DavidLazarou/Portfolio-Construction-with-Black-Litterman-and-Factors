@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+
+# Data
+data/raw/
+data/processed/
+
+# Generated outputs
+**/figures/
+**/tables/
+
+# Logs
+*.log
+
